@@ -13,7 +13,7 @@ header: no
 #
 # Metainformation & Customization
 #
-permalink:/movies/
+permalink: /movies/
 ---
 
 Projector Saw

@@ -14,7 +14,7 @@ header:
 #
 # Metainformation & Customization
 #
-permalink:/schedules/
+permalink: /schedules/
 ---
 
 Check yourself before you wreck yourself

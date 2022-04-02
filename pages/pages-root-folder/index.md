@@ -9,13 +9,12 @@ header:
   image_fullwidth: 18_bothering-guillaume-in-the-snow.jpg
 widget1:
   title: "Master Splinter & Co"
-  url: /master-splinter
+  url: /master-splinter/
   image: 18_stolen-cat.jpg
   text: 'Pictures of Tiny Friend'
 widget2:
   title: "Movies"
   url: /movies/
-# image: 
   text: 'Projector History'
 widget3:
   title: "Schedules"
