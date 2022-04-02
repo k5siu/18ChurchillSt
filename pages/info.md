@@ -7,6 +7,5 @@ permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-#...and learn at the same time.
 
 Definitely no food here
