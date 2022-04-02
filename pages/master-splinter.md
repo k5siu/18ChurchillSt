@@ -9,9 +9,9 @@ teaser: ""
 #
 # Styling
 #
-#header: no
-header:
-   image_fullwidth: "18_tag.jpg"
+header: no
+#header:
+#   image_fullwidth: "18_tag.jpg"
 #
 # Metainformation & Customization
 #
