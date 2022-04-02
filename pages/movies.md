@@ -21,8 +21,9 @@ permalink: /movies/
 - Eega
 
 ## Projector Saw
+|----+----|
 | Movie | Date Watched|
-|---+---|
+|----+----|
 | Prisoner | 04/01/2022|
 | Enemy | 03/31/2022|
 | Turning Red | 03/29/2022|
@@ -56,4 +57,4 @@ permalink: /movies/
 | Lamb | 10/15/2021|
 | Titane | 10/01/2021|
 | Shang-Chi and the Legend of the Ten Rings | 09/28/2021|
-
+|====+====|
