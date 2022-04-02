@@ -11,7 +11,7 @@ teaser: ""
 #
 #header: no
 header:
-   image: "18_tag.jpg"
+   image_fullwidth: "18_tag.jpg"
 #
 # Metainformation & Customization
 #

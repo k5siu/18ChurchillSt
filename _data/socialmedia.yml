@@ -3,9 +3,9 @@
   class: icon-github
   title: GitHub
 
-- name: YouTube
-  class: icon-youtube
-  title: "Youtube"
+#- name: YouTube
+#  class: icon-youtube
+#  title: "Youtube"
 #  url: http://www.youtube.com/PhlowMedia
 #  class: icon-youtube
 #  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
