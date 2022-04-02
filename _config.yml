@@ -42,7 +42,7 @@ urlimg: 'https://k5siu.github.io/18ChurchillSt/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+#logo: "logo.png"
 
 # Plugins
 plugins:

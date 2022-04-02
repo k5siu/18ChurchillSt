@@ -1,5 +1,17 @@
-- title: Start
+- title: 18ChurchillSt
   url: "/"
+  side: left
+
+- title: Master Splinter
+  url: "/master-splinter/"
+  side: left
+
+- title: Movies
+  url: "/movies/"
+  side: left
+
+- title: Schedules
+  url: "/schedules/"
   side: left
 
 #- title: Getting Started
