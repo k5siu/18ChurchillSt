@@ -21,6 +21,7 @@ permalink: /movies/
 - Eega
 
 ## Projector Saw
+```
 |----+----|
 | Movie | Date Watched|
 |----+----|
@@ -58,8 +59,10 @@ permalink: /movies/
 | Titane | 10/01/2021|
 | Shang-Chi and the Legend of the Ten Rings | 09/28/2021|
 |====+====|
+```
 
 ## Test table
+```
 |-----------------+------------+-----------------+----------------|
 | Default aligned |Left aligned| Center aligned  | Right aligned  |
 |-----------------|:-----------|:---------------:|---------------:|
@@ -72,4 +75,4 @@ permalink: /movies/
 |=================+============+=================+================|
 | Footer row      |            |                 |                |
 |-----------------+------------+-----------------+----------------|
-
+```
