@@ -22,7 +22,7 @@ permalink: /movies/
 
 ## Projector Saw
 | Movie | Date Watched|
-|---|---|
+|---+---|
 | Prisoner | 04/01/2022|
 | Enemy | 03/31/2022|
 | Turning Red | 03/29/2022|
