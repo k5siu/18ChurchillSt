@@ -19,6 +19,7 @@ permalink: /movies/
 ## Projector Wants to See
 - Everything Everywhere All At Once
 - Eega
+- Munna Bhai M.B.B.S
 
 ## Projector Saw
 - Prisoner --- 04/01/2022
