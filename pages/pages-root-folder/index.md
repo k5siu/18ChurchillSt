@@ -21,6 +21,10 @@ widget3:
   url: /schedules/
   image: 18_shovelling-pattern.jpg
   text: 'What do when?'
+widget4:
+  title: "Museum of fine arts"
+  url: /blackboard/
+  text: 'AI generated'
 #widget1:
 #  title: "Blog & Portfolio"
 #  url: 'http://phlow.github.io/feeling-responsive/blog/'
