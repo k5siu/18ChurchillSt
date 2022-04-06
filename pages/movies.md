@@ -22,6 +22,7 @@ permalink: /movies/
 - Munna Bhai M.B.B.S
 
 ## Projector Saw
+- The Lost Daughter --- 04/03/2022
 - Prisoner --- 04/01/2022
 - Enemy --- 03/31/2022
 - Turning Red --- 03/29/2022
