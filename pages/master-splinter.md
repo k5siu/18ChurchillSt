@@ -20,14 +20,14 @@ permalink: /master-splinter/
 
 ![Huh?](/images/18_huh.jpg)
 
-![image-center](/images/18_head-scratch.jpg)
+![Head Scratch](/images/18_head-scratch.jpg)
 
-![image-center](/images/18_stair-action.jpg)
+![Down Stairs](/images/18_stair-action.jpg)
 
-![image-center](/images/18_besties-room.jpg)
+![Bestie's Room](/images/18_besties-room.jpg)
 
-![image-center](/images/18_drink.jpg)
+![Drink](/images/18_drink.jpg)
 
-![image-center](/images/18_couch-lying.jpg)
+![Couch Lying](/images/18_couch-lying.jpg)
 
-![image-center](/images/18_patio-food.jpg)
+![Patio Food](/images/18_patio-food.jpg)
