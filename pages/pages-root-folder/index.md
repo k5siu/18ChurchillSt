@@ -5,6 +5,8 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
+title: "18 Churchill St"
+teaser: "Master Splinter Temple"
 header:
   image_fullwidth: 18_bothering-guillaume-in-the-snow.jpg
 widget1:
