@@ -27,7 +27,7 @@ gallery:
 #
 # Styling
 #
-image:
+image: '18_blackboard_shrimps.jpg'
  thumb:
 #
 # Metainformation & Customization

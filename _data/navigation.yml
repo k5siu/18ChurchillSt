@@ -10,12 +10,12 @@
   url: "/movies/"
   side: left
 
-- title: Schedules
-  url: "/schedules/"
-  side: left
-
 - title: Blackboard
   url: "/blackboard/"
+  side: left
+
+- title: Schedules
+  url: "/schedules/"
   side: left
 
 #- title: Getting Started

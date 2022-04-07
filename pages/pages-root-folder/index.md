@@ -21,7 +21,7 @@ widget3:
   url: /schedules/
   image: 18_shovelling-pattern.jpg
   text: 'What do when?'
-widget4:
+widget3:
   title: "Museum of fine arts"
   url: /blackboard/
   text: 'AI generated'
