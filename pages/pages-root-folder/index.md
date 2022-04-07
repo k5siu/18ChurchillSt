@@ -17,14 +17,15 @@ widget2:
   url: /movies/
   text: 'Projector History'
 widget3:
-  title: "Schedules"
-  url: /schedules/
-  image: 18_shovelling-pattern.jpg
-  text: 'What do when?'
-widget3:
   title: "Museum of fine arts"
   url: /blackboard/
+  image: 18_blackboard_jeff.jpg
   text: 'AI generated'
+#widget3:
+#  title: "Schedules"
+#  url: /schedules/
+#  image: 18_shovelling-pattern.jpg
+#  text: 'What do when?'
 #widget1:
 #  title: "Blog & Portfolio"
 #  url: 'http://phlow.github.io/feeling-responsive/blog/'

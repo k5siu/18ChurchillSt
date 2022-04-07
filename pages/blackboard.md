@@ -27,12 +27,14 @@ gallery:
 #
 # Styling
 #
-image: '18_blackboard_shrimps.jpg'
- thumb:
+header:
+   image_fullwidth: '18_blackboard_shrimps.jpg'
+#image:
+# thumb: '18_blackboard_bigbrain.jpg'
 #
 # Metainformation & Customization
 #
-meta_description:
+meta_description: 'AI Generated'
 permalink: /blackboard/
 ---
 

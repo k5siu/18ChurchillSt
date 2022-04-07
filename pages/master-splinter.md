@@ -5,7 +5,7 @@ layout: page
 #
 subheadline: ""
 title: "Master Splinter"
-teaser: ""
+teaser: "Shrine Central"
 #
 # Styling
 #
@@ -18,4 +18,16 @@ header: no
 permalink: /master-splinter/
 ---
 
-Shrine Central
+![image-center](/images/18_huh.jpg)
+
+![image-center](/images/18_head-scratch.jpg)
+
+![image-center](/images/18_stair-action.jpg)
+
+![image-center](/images/18_besties-room.jpg)
+
+![image-center](/images/18_drink.jpg)
+
+![image-center](/images/18_couch-lying.jpg)
+
+![image-center](/images/18_patio-food.jpg)
