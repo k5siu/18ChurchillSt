@@ -18,7 +18,7 @@ header: no
 permalink: /master-splinter/
 ---
 
-![image-center](/images/18_huh.jpg)
+![Huh?](/images/18_huh.jpg)
 
 ![image-center](/images/18_head-scratch.jpg)
 
