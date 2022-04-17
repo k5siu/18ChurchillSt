@@ -18,10 +18,12 @@ permalink: /movies/
 
 ## Projector Wants to See
 - Everything Everywhere All At Once
-- Eega
 - Munna Bhai M.B.B.S
+- The Death of Dick Long
+- A Ghost Story
 
 ## Projector Saw
+- Eega --- 04/17/2022
 - The Outfit --- 04/07/2022
 - The Lost Daughter --- 04/03/2022
 - Prisoner --- 04/01/2022
