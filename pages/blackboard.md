@@ -6,36 +6,25 @@ layout: page
 subheadline: ""
 title: "Museum of Fine Arts"
 teaser: ""
-categories:
-  -
-tags:
-  -
-#
-# Gallery
-#
-gallery:
-    - image_url: 18_blackboard_bigbrain.jpg
-      caption: Big Brain
-    - image_url: 18_blackboard_gains.jpg
-      caption: Gains
-    - image_url: 18_blackboard_jeff.jpg
-      caption: Jeff
-    - image_url: 18_blackboard_meiyou.jpg
-      caption: Mei You
-    - image_url: 18_blackboard_shrimps.jpg
-      caption: Shrimps
 #
 # Styling
 #
-header:
-   image_fullwidth: '18_blackboard_shrimps.jpg'
-#image:
-# thumb: '18_blackboard_bigbrain.jpg'
+header: no
+#header:
+#   image_fullwidth: "18_tag.jpg"
 #
 # Metainformation & Customization
 #
-meta_description: 'AI Generated'
 permalink: /blackboard/
 ---
 
-{% include gallery %}
+![Big Brain](/images/18_blackboard_bigbrain.jpg)
+
+![Gains](/images/18_blackboard_gains.jpg)
+
+![Jeff](/images/18_blackboard_jeff.jpg)
+
+![Mayo](/images/18_blackboard_meiyou.jpg)
+
+![Shrimps](/images/18_blackboard_shrimps.jpg)
+
