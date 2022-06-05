@@ -19,6 +19,11 @@ permalink: /movies/
 ## Projector Wants to See
 - The Death of Dick Long
 - A Ghost Story
+- The Northman
+- Men
+- Disappointment Blvd.
+- The Lives of Others
+- Broker
 
 ## Projector Saw
 - Munna Bhai M.B.B.S. --- 04/23/2022
