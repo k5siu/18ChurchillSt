@@ -24,6 +24,7 @@ permalink: /movies/
 - Disappointment Blvd.
 - The Lives of Others
 - Broker
+- Triangle of Sadness
 
 ## Projector Saw
 - Munna Bhai M.B.B.S. --- 04/23/2022
