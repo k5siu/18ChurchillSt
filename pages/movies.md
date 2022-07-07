@@ -17,16 +17,23 @@ permalink: /movies/
 ---
 
 ## Projector Wants to See
-- The Death of Dick Long
-- A Ghost Story
 - The Northman
-- Men
-- Disappointment Blvd.
 - The Lives of Others
 - Broker
 - Triangle of Sadness
 
+#### A24
+- Men
+- On the Rocks
+- First Cow
+- First Reformed
+- The End of the Tour
+
 ## Projector Saw
+- The Death of Dick Long --- 06/30/2022
+- The Worst Person in the World --- 06/25/2022
+- A Ghost Story --- 06/24/2022
+- Hustle --- 06/19/2022
 - Munna Bhai M.B.B.S. --- 04/23/2022
 - Everything Everywhere All At Once --- 04/17/2022
 - Eega --- 04/17/2022
