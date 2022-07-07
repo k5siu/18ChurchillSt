@@ -21,6 +21,7 @@ permalink: /movies/
 - The Lives of Others
 - Broker
 - Triangle of Sadness
+- Host
 
 #### A24
 - Men
