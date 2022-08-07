@@ -17,7 +17,6 @@ permalink: /movies/
 ---
 
 ## Projector Wants to See
-- The Northman
 - The Lives of Others
 - Broker
 - Triangle of Sadness
@@ -31,6 +30,7 @@ permalink: /movies/
 - The End of the Tour
 
 ## Projector Saw
+- The Northman --- 08/06/2022
 - The Death of Dick Long --- 06/30/2022
 - The Worst Person in the World --- 06/25/2022
 - A Ghost Story --- 06/24/2022
