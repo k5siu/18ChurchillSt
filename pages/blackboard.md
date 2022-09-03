@@ -28,6 +28,10 @@ permalink: /blackboard/
 
 ![Shrimps](/images/18_blackboard_shrimps.jpg)
 
+![Coin](/images/18_blackboard_coin.jpg)
+
 ![Tips](/images/18_blackboard_tips.JPG)
 
 ![Circles](/images/18_blackboard_circles.JPG)
+
+![Hole](/images/18_blackboard_hole.jpg)
