@@ -18,7 +18,6 @@ permalink: /movies/
 
 ## Projector Wants to See
 - The Lives of Others
-- Broker
 - Triangle of Sadness
 - Host
 
@@ -30,6 +29,7 @@ permalink: /movies/
 - The End of the Tour
 
 ## Projector Saw
+- Broker --- 08/23/2022
 - The Northman --- 08/06/2022
 - The Death of Dick Long --- 06/30/2022
 - The Worst Person in the World --- 06/25/2022
